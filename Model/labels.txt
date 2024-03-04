@@ -1,0 +1,3 @@
+0 Peace
+1 Ok
+2 Thumbs Up
